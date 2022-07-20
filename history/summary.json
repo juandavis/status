@@ -22,19 +22,19 @@
     "url": "https://fs.asistencia.online",
     "icon": "https://favicons.githubusercontent.com/fs.asistencia.online",
     "slug": "asistencia-online-file-share",
-    "status": "down",
-    "uptime": "39.33%",
-    "uptimeDay": "39.33%",
-    "uptimeWeek": "39.33%",
-    "uptimeMonth": "39.33%",
-    "uptimeYear": "39.33%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 413,
+    "timeDay": 413,
+    "timeWeek": 413,
+    "timeMonth": 413,
+    "timeYear": 413,
     "dailyMinutesDown": {
-      "2022-07-20": 1
+      "2022-07-20": 92
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/r.miredenlinea.com",
     "slug": "rport-server",
     "status": "down",
-    "uptime": "65.60%",
-    "uptimeDay": "65.60%",
-    "uptimeWeek": "65.60%",
-    "uptimeMonth": "65.60%",
-    "uptimeYear": "65.60%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 0
+      "2022-07-20": 92
     }
   },
   {
