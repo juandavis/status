@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: SCC-Power
     url: https://scc-power.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Macadamia
+    url: https://macadamia.ar
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
@@ -18,7 +18,7 @@ asignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.asistencia.online
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
