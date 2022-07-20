@@ -9,8 +9,8 @@ sites:
     url: https://scc-power.com
   - name: Macadamia
     url: https://macadamia.ar
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Baldolara
+    url: https://baldolara.com
     
 asignees:
   - juandavis
