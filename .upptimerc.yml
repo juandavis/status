@@ -9,8 +9,6 @@ sites:
     url: https://fs.asistencia.online
   - name: Nginx Proxy Manager
     url: https://nginx.miredenlinea.com
-  - name: Rport Server
-    url: https://r.miredenlinea.com/auth
   - name: SCC-Power
     url: https://scc-power.com
   - name: Macadamia
@@ -25,8 +23,11 @@ sites:
     url: https://volcanesprada.net
   - name: Corporacion AIT
     url: https://corporacionait.com
-  - name: AO PRTG Server
-    url: https://prtg.asistencia.online/index.htm
+  - name: Uni-Glass
+    url: http://uni-glass.com
+  - name: Finnegans
+    url: http://teamplace.araucap.com
+
     
 asignees:
   - juandavis
